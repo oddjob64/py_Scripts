@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Python_(programming_language)
+https://en.wikipedia.org/wiki/Guido_van_Rossum
+https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
